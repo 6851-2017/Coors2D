@@ -1,2 +1,2 @@
-# Coors2D
-Cache Oblivious 2D Orthogonal Range Search
+# 2DCOORS
+2D Cache Oblivious Orthogonal Range Search in Python
